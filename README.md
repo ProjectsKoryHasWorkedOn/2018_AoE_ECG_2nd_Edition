@@ -2,10 +2,13 @@
 Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/3127/age-of-empires-expandable-card-game)
 
 ## Inspirations
-https://cardguide.fandom.com/wiki/Regicide_Pack
-https://boardgamegeek.com/boardgame/14038/anachronism
-https://cardguide.fandom.com/wiki/Heroes_and_Events
-https://ageofempires.fandom.com/wiki/Age_of_Empires_Series_Wiki
+(Anachronism) https://boardgamegeek.com/boardgame/14038/anachronism
+(Codex: Card-Time Strategy) https://boardgamegeek.com/boardgame/131111/codex-card-time-strategy-deluxe-set
+(Age of Empires wiki) https://ageofempires.fandom.com/wiki/Age_of_Empires_Series_Wiki
+(Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Heroes_and_Events
+(Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Smoke_and_Saints
+(Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Conquerors
+(Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Regicide_Pack
 
 ## Permissions
 **Had approval to come up with this (with non-commercial stipulation) from:**
@@ -45,6 +48,143 @@ https://ageofempires.fandom.com/wiki/Age_of_Empires_Series_Wiki
 * Raider
 * European
 * Far East
+
+## New civilization card - Byzantine 
+* Unique Unit: Cataphract
+* Monk Healing Rate has a +2 modifier, thus making it easier to heal units.
+* Camels, Skirmishers and Pikeman cost less to enlist. X
+* Fire Ships have an increased attack. X
+* Advancing to the Imperial Age costs 10F, 8G, 2B.
+* All Buildings played by a Byzantine player get the following HP bonus: Age I - 10 HP, Age II - 20 HP, Age III - 30 HP, Age IV - 40 HP.
+
+## New civilization card - Chinese
+* Unique Unit: Cho Ko Nu
+* Start the game with 6 villagers and 2 food, instead of 3 villagers and 5 food.
+* Farms produce additional food. X
+* Town Center add 7 to the Villagers Population Limit. X
+* Demolition Ships have increased HP. X
+* All Technologies played by a Chinese player get the following reduction in cost: Age II - 1, Age III - 2, Age IV - 3
+
+## New civilization card - Teutons
+* Unique Unit: Teutonic Knight
+* Conversion Rate modifier is -1 against Teutonic units, thus making it harder to convert.
+* A unit with monks attached can assist with its Healing Attempt on an adjacent unit. A unit can only be targeted by this once per turn. The assisting monks cannot be engaged in combat.
+* Towers have increased attack. X
+* Murder Holes may be played without cost.
+* Farms have a lower building cost. X
+
+## New civilization card - Turks
+* Unique Unit: Janissary
+* When entering the Imperial Age, retrieve Chemistry from your Play deck and play it for free.
+* When entering the Castle Age, retrieve Light Cavalry from your Play deck and play it for free.
+* Turks start the game with Gold Mining in play.
+* Gunpowder Units have increased HP. X All Age Advancement only takes 1 research.
+
+## New cards - buildings
+* Bombard Tower
+* Farm (Chinese)
+* Farm (Teuton)
+* Monastery (Teuton)
+* Monastery (Byzantine)
+* Town Center (Chinese)
+* Watch Tower (Teuton)
+* Wonder (Byzantine)
+* Wonder (Chinese)
+* Wonder (Teuton)
+* Wonder (Turk)
+
+## New cards - units
+* Bombard Cannon (Turk)
+* Camel (Byzantine)
+* Cannon Galleon (Turk)
+* Cataphract (Byzantine)
+* Chu Ko Nu (Chinese)
+* Demolition Ship (Chinese)
+* Eagle Scouts
+* Dromon
+* Fire Ship (Byzantine)
+* Hand Cannoneer (Turk)
+* Janissary (Turk)
+* Spearman (Byzantine)
+* Skirmisher (Byzantine)
+* Steppe Lancer
+* Transport ship
+* Transport Ship (Saracen)
+* Teutonic Knight (Teuton)
+* Xolotl Warrior
+
+## New cards - technologies
+* Architecture
+* Atonement
+* Ballistics
+* Block Printing
+* Careening
+* Chemistry
+* Dry Dock
+* Faith
+* Fervor
+* Gambesons
+* Gillnets
+* Heated Shot
+* Illumination
+* Masonry
+* Murder Holes
+* Redemption
+* Sanctity
+* Siege Engineers
+* Supplies
+* Treadmill Crane
+
+## New cards - unique technologies
+* Anarchy (Goth)
+* Atheism (Hun)
+* Bearded Axe (Frank)
+* Bogsveigar (Viking)
+* Chieftains (Viking)
+* Chivalry (Frank)
+* Crenellations (Teuton)
+* Counterweights (Saracen)
+* Drill (Mongol)
+* Eupseong (Korean)
+* El Dorado (Mayan)
+* Furor Celtica (Celt)
+* Garland Wars (Aztec)
+* Greek Fire (Byzantine)
+* Great Wall (Chinese)
+* Hul'che Javelineers (Mayan)
+* Ironclad (Teuton)
+* Inquisition (Spanish)
+* Kataparuto (Japanese)
+* Kamandaran (Persian)
+* Logistica (Byzantine)
+* Mahouts (Persian)
+* Marauders (Hun)
+* Nomads (Mongol)
+* Perfusion (Goth)
+* Rocketry (Chinese)
+* Shinkichon (Korean)
+* Sipahi (Turk)
+* Stronghold (Celt)
+* Supremacy (Spanish)
+* Warwolf (Briton)
+* Yasama (Japanese)
+* Yeomen (Briton)
+* Zealotry (Saracen)
+
+## New cards - unit upgrade technologies
+* Eagle Warrior
+* Elite Cannon Galleon (Turk)
+* Elite Cataphract (Byzantine)
+* Elite Chu Ko Nu (Chinese)
+* Elite Janissary (Turk)
+* Elite Skirmisher (Byzantine)
+* Elite Teutonic Knight (Teuton)
+* Fast Fire Ship (Byzantine)
+* Guard Tower (Teuton)
+* Heavy Camel (Byzantine)
+* Heavy Demolition Ship (Chinese)
+* Keep (Teuton)
+* Pikeman (Byzantine)
 
 ## New cards - heroes
 * Stats of them are buffed versions of standard units (e.g. Theodoric the Goth is a stronger Huskarl) with the same prerequisites and resource costs as their base model
