@@ -3,7 +3,40 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 
 ## Aims I had
 * Finishing it
- * Adding content that was planned but never happened  
+ * Adding content that was planned but never happened
+* Having thematic ties
+* Making it affordable
+* Making it quick to set-up and pack-up
+* Making it flow well
+ * Reducing how much time players have to stop playing in order to
+  * Do calculations
+  * Move pieces around  
+* Making it accessible
+ * Releasing P&P files for free
+ * Releasing it on Tabletop Simulator
+* Making it easy to teach
+ * Having few rules exceptions
+ * Having rules that are intuitive to an extent
+* Making it pretty
+* Making it less of a time commitment to start and finish a game
+* Making it immersive
+ * Minimizing how often players have poor options (e.g. useless technologies to choose from)
+* Making it competitive
+ * Making it so no player has an unfair advantage due to access to particular cards that their opponent lacks
+ * Making it so no player can utilize unfair tactics (e.g. making it so a player can't play "The King is Dead, Long Live the King" 5 times in a row, which helps them win with a wonder without their opponent being able to attack at all)
+ * Making it so there's no entity that can't be stopped, that it has weaknesses 
+ * Making it so there's no entity that has no use, that it has strengths
+ * Making it so the counter units cost resources too so the defender is set back a bit by responding to the moves of the attacking player
+ * Making it so there's some hidden information (if possible)
+ * Making it so each civilization has a shot at winning versus all other civilizations.
+* Making it so each game has a lot of potential to be different from the last 
+* Making it so the winner is the best decision-maker as opposed to the luckiest or best memorizer
+ * Making it so luck has little impact on who wins 
+* Making it so the game is strategically interesting
+ * Making it so players can change their strategy on the fly
+ * Making it so there's a range of viable strategies
+* Making it so the winner has to utilize skills such as
+ * Resource management
 
 ## Inspirations
 - [Anachronism's hero picks](https://boardgamegeek.com/boardgame/14038/anachronism)
@@ -46,14 +79,102 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
   * Game design
 
 
+## Resources
+* Food
+* Gold
+* Stone
+* Wood
 
+## Resources needed at what stages of the game
+* Food/Wood at the start
+* Gold/Stone in the mid-game
 
+## Art cost
+~ 250 USD (389.32 AUD)/a card
 
 ## Art direction
-* Arab
-* Raider
-* European
-* Far East
+* Realistic
+* Vibrant
+* Full color
+
+### Artist talent needed
+* Sketching skill
+* Painting - Acryllic skill
+
+### Artwork size
+~ 5.75 inches by 6.75 inches
+
+### Art guidance based on the age
+* Dark Age
+ * Units should be clad primarily in cloth or padded armor.  They could also have some leather.
+* Feudal Age
+ * Units should be clad primarily in leather or studded / ringed leather armor.  They could also have some chain mail items and metal helms.
+* Castle Age
+ * Units should be clad primarily in chain main or scale mail armor.  They could also have some plate mail items.
+* Imperial Age
+ * Units should be clad primarily in plate mail armor.
+
+### Art guidance based on the unit type
+* Christian monks should wear brown robes tied with rope (Friar Tuck).
+* Pagan monks should be as Christian monks but with a goat-head mask.
+* Muslim monks should wear an off-white robe and a small circular cap.
+* Buhddist monks should be as Muslim monks but with no cap and a bald head.
+* Archer units should generally be clad in chain mail or lesser armor. 
+* Berserkers and the axe thrower can wear less clothing than the others.
+* Janissaries must have their distinctive hats.
+* Woad berserkers must have their distinctive tattoos, pants, and neck torques.
+* Dervish should have a scimitar.
+* Samurai should have distinctive Japanese armor.
+* Teutonic Knights and Samurai are foot units.
+
+### Art style based on the civilization
+* African style:
+ * Ethiopians
+ * Malians
+* Central Asian style
+ * Cumans
+ * Tatars
+* Central European style:
+ * Goths
+ * Teutons
+ * Vikings
+* East Asian style:
+ * Chinese
+ * Japanese
+ * Koreans
+ * Vietnamese
+* Nomadic style
+ * [Huns](https://steamcommunity.com/sharedfiles/filedetails/?id=1647935550&searchtext=hun+architecture) 
+ * [Mongols](https://steamcommunity.com/sharedfiles/filedetails/?id=1397456606&searchtext=mongol)
+* Eastern European style:
+ * Bulgarians
+ * Lithuanians
+ * Magyars
+ * Slavs
+* Mediterranean style:
+ * Byzantines
+ * Italians
+ * Portugese
+ * Spanish
+* Meso-American style
+ * Aztecs
+ * Incas
+ * Mayans
+* Middle Eastern style:
+ * Berbers
+ * Persians
+ * Saracens
+ * Turks
+* South Asian style:
+ * Indians
+* South-East Asian style
+ * Burmese
+ * Khmer
+ * Malay
+* Western European style
+ * Britons
+ * Celts
+ * Franks
 
 ## New civilization card - Byzantine 
 * Unique Unit: Cataphract
