@@ -89,7 +89,6 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Gold/Stone in the mid-game
 
 ## Concepts to keep from the original
-* Buildings are what creates land and what explores it
 * Units having attack bonuses
 * Units having a flat attack value
 * Units dying
@@ -97,7 +96,22 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
   * Units having an active state
   * Units having an inactive state
 * Having a static turn order
-* Having smaller-scale battles
+* Having smaller-scale battles. Lots of "good trades" are needed. Don't win after winning a single battle with one's army
+* Maintaining preexisting unit limits. Should make it easier to calculate the outcome of the battle
+* Maintaining a limited base size. Should help make it fit on the table if players can't for example, play a 1 row x 24 columns grid of cards as opposed to a 4 row * 6 columns grid of cards
+* Sticking with cards. Affordable. Can fit more information on them. Can present art on them
+
+## Concepts to change from the original
+* Buildings are what creates land and what explores it
+
+## Ideas I had 
+* B
+* Game board with different action spots
+  * E.g. Town Center having a create villager spot
+  * E.g. Blacksmith having a research blacksmith technology spot
+  * E.g. Scout spot
+  * E.g. Raid spot
+  * E.g. Battle spot
 
 
 ## Art cost
