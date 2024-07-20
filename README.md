@@ -1,14 +1,20 @@
 # Age of Empires ECG (2nd edition) ideas
 Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/3127/age-of-empires-expandable-card-game)
 
+## Aims I had
+* Finishing it
+ * Adding content that was planned but never happened  
+
 ## Inspirations
-- (Anachronism) https://boardgamegeek.com/boardgame/14038/anachronism
-- (Codex: Card-Time Strategy) https://boardgamegeek.com/boardgame/131111/codex-card-time-strategy-deluxe-set
-- (Age of Empires wiki) https://ageofempires.fandom.com/wiki/Age_of_Empires_Series_Wiki
-- (Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Heroes_and_Events
-- (Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Smoke_and_Saints
-- (Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Conquerors
-- (Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Regicide_Pack
+- [Anachronism's hero picks](https://boardgamegeek.com/boardgame/14038/anachronism)
+- [David Sirlin's argument that in-game deck-building is better](https://www.sirlin.net/posts/codex-design-cards-and-gold-as-resources)
+- [David Sirlin's approach to using tier lists and match-up charts for measuring game balance](https://www.sirlin.net/articles/game-balance-and-yomi)
+- [Age of Empires II](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal)
+- [Age of Empires ECG](https://ageofempires.fandom.com/wiki/Age_of_Empires:_Expandable_Card_Game)
+- [Unfinished Age of Empires ECG expansion - Heroes and Events](https://cardguide.fandom.com/wiki/Heroes_and_Events)
+- [Unfinished Age of Empires ECG expansion - Smoke and Saints](https://cardguide.fandom.com/wiki/Smoke_and_Saints)
+- [Unfinished Age of Empires ECG expansion - Conquerors](https://cardguide.fandom.com/wiki/Conquerors)
+- [Unfinished Age of Empires ECG expansion - Regicide Pack](https://cardguide.fandom.com/wiki/Regicide_Pack)
 
 ## Permissions
 **Had approval to come up with this (with non-commercial stipulation) from:**
