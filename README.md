@@ -3,40 +3,40 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 
 ## Aims I had
 * Finishing it
- * Adding content that was planned but never happened
+  * Adding content that was planned but never happened
 * Having thematic ties
 * Making it affordable
 * Making it quick to set-up and pack-up
 * Making it flow well
- * Reducing how much time players have to stop playing in order to
-  * Do calculations
-  * Move pieces around  
+  * Reducing how much time players have to stop playing in order to
+    * Do calculations
+    * Move pieces around  
 * Making it accessible
- * Releasing P&P files for free
- * Releasing it on Tabletop Simulator
+  * Releasing P&P files for free
+  * Releasing it on Tabletop Simulator
 * Making it easy to teach
- * Having few rules exceptions
- * Having rules that are intuitive to an extent
+  * Having few rules exceptions
+  * Having rules that are intuitive to an extent
 * Making it pretty
 * Making it less of a time commitment to start and finish a game
 * Making it immersive
- * Minimizing how often players have poor options (e.g. useless technologies to choose from)
+  * Minimizing how often players have poor options (e.g. useless technologies to choose from)
 * Making it competitive
- * Making it so no player has an unfair advantage due to access to particular cards that their opponent lacks
- * Making it so no player can utilize unfair tactics (e.g. making it so a player can't play "The King is Dead, Long Live the King" 5 times in a row, which helps them win with a wonder without their opponent being able to attack at all)
- * Making it so there's no entity that can't be stopped, that it has weaknesses 
- * Making it so there's no entity that has no use, that it has strengths
- * Making it so the counter units cost resources too so the defender is set back a bit by responding to the moves of the attacking player
- * Making it so there's some hidden information (if possible)
- * Making it so each civilization has a shot at winning versus all other civilizations.
+  * Making it so no player has an unfair advantage due to access to particular cards that their opponent lacks
+  * Making it so no player can utilize unfair tactics (e.g. making it so a player can't play "The King is Dead, Long Live the King" 5 times in a row, which helps them win with a wonder without their opponent being able to attack at all)
+  * Making it so there's no entity that can't be stopped, that it has weaknesses 
+  * Making it so there's no entity that has no use, that it has strengths
+  * Making it so the counter units cost resources too so the defender is set back a bit by responding to the moves of the attacking player
+  * Making it so there's some hidden information (if possible)
+  * Making it so each civilization has a shot at winning versus all other civilizations.
 * Making it so each game has a lot of potential to be different from the last 
 * Making it so the winner is the best decision-maker as opposed to the luckiest or best memorizer
- * Making it so luck has little impact on who wins 
+  * Making it so luck has little impact on who wins 
 * Making it so the game is strategically interesting
- * Making it so players can change their strategy on the fly
- * Making it so there's a range of viable strategies
+  * Making it so players can change their strategy on the fly
+  * Making it so there's a range of viable strategies
 * Making it so the winner has to utilize skills such as
- * Resource management
+  * Resource management
 
 ## Inspirations
 - [Anachronism's hero picks](https://boardgamegeek.com/boardgame/14038/anachronism)
@@ -66,8 +66,8 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Had difficulties coming up with solutions for some of the problems I had with the original game
 * Had difficulties speaking to Microsoft representative to ensure I wasn't violating their IP rights
 * Realized I underestimated the investment needed to make a board game
- * ~ 200 AUD/per card art
- * ~ years of time
+  * ~ 200 AUD/per card art
+  * ~ years of time
 * Realized that there wasn't a large enough audience for this
 * Realized that I don't want to design a board game on one's own
  * Partner could help with playtesting
@@ -77,7 +77,6 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
   * Statistics
   * Graphic design
   * Game design
-
 
 ## Resources
 * Food
@@ -95,8 +94,8 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Units having a flat attack value
 * Units dying
 * Units exhausting 
- * Units having an active state
- * Units having an inactive state
+  * Units having an active state
+  * Units having an inactive state
 * Having a static turn order
 * Having smaller-scale battles
 
@@ -118,13 +117,13 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 
 ### Art guidance based on the age
 * Dark Age
- * Units should be clad primarily in cloth or padded armor.  They could also have some leather.
+  * Units should be clad primarily in cloth or padded armor.  They could also have some leather.
 * Feudal Age
- * Units should be clad primarily in leather or studded / ringed leather armor.  They could also have some chain mail items and metal helms.
+  * Units should be clad primarily in leather or studded / ringed leather armor.  They could also have some chain mail items and metal helms.
 * Castle Age
- * Units should be clad primarily in chain main or scale mail armor.  They could also have some plate mail items.
+  * Units should be clad primarily in chain main or scale mail armor.  They could also have some plate mail items.
 * Imperial Age
- * Units should be clad primarily in plate mail armor.
+  * Units should be clad primarily in plate mail armor.
 
 ### Art guidance based on the unit type
 * Christian monks should wear brown robes tied with rope (Friar Tuck).
@@ -139,54 +138,57 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Samurai should have distinctive Japanese armor.
 * Teutonic Knights and Samurai are foot units.
 
+### Art guidance for the heroes
+* Could use [Anachronism](https://www.ccgtrader.net/games/anachronism) for inspiration since it's of a similar art style to the AoE ECG
+
 ### Art style based on the civilization
 * African style:
- * Ethiopians
- * Malians
+  * Ethiopians
+  * Malians
 * Central Asian style
- * Cumans
- * Tatars
+  * Cumans
+  * Tatars
 * Central European style:
- * Goths
- * Teutons
- * Vikings
+  * Goths
+  * Teutons
+  * Vikings
 * East Asian style:
- * Chinese
- * Japanese
- * Koreans
- * Vietnamese
+  * Chinese
+  * Japanese
+  * Koreans
+  * Vietnamese
 * Nomadic style
- * [Huns](https://steamcommunity.com/sharedfiles/filedetails/?id=1647935550&searchtext=hun+architecture) 
- * [Mongols](https://steamcommunity.com/sharedfiles/filedetails/?id=1397456606&searchtext=mongol)
+  * [Huns](https://steamcommunity.com/sharedfiles/filedetails/?id=1647935550&searchtext=hun+architecture) 
+  * [Mongols](https://steamcommunity.com/sharedfiles/filedetails/?id=1397456606&searchtext=mongol)
 * Eastern European style:
- * Bulgarians
- * Lithuanians
- * Magyars
- * Slavs
+  * Bulgarians
+  * Lithuanians
+  * Magyars
+  * Slavs
 * Mediterranean style:
- * Byzantines
- * Italians
- * Portugese
- * Spanish
+  * Byzantines
+  * Italians
+  * Portugese
+  * Spanish
 * Meso-American style
- * Aztecs
- * Incas
- * Mayans
+  * Aztecs
+  * Incas
+  * Mayans
 * Middle Eastern style:
- * Berbers
- * Persians
- * Saracens
- * Turks
+  * Berbers
+  * Persians
+  * Saracens
+  * Turks
 * South Asian style:
- * Indians
+  * Indians
 * South-East Asian style
- * Burmese
- * Khmer
- * Malay
+  * Burmese
+  * Khmer
+  * Malay
 * Western European style
- * Britons
- * Celts
- * Franks
+  * Britons
+  * Celts
+  * Franks
 
 ## New civilization card - Byzantine 
 * Unique Unit: Cataphract
@@ -325,7 +327,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Keep (Teuton)
 * Pikeman (Byzantine)
 
-## New cards - heroes
+## New concept - heroes
 * Stats of them are buffed versions of standard units (e.g. Theodoric the Goth is a stronger Huskarl) with the same prerequisites and resource costs as their base model
 * Can only be played once
 * Can only have one of them
@@ -335,7 +337,9 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Can attach them to other unit cards
   * Have to kill all other units on the attached unit card before being able to target the hero on it
 * Can attach them to other unit cards
-* What heroes to add
+
+
+## New cards - heroes
  * Ahuitzotl (Aztec)
  * Cuitlahuac (Aztec)
  * Itzcoatl (Aztec)
@@ -384,8 +388,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
  * Harald Hardrada (Viking)
  * Harthacnut (Viking)
  * Siegfried (Viking)
-* What hero art to use for inspiration (as a reference for the artist) since it's of a similar art style to the AoE ECG
- * https://www.ccgtrader.net/games/anachronism 
+ 
 
 
 ## Victory conditions
