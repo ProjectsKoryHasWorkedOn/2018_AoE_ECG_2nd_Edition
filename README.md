@@ -2,13 +2,13 @@
 Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/3127/age-of-empires-expandable-card-game)
 
 ## Inspirations
-(Anachronism) https://boardgamegeek.com/boardgame/14038/anachronism
-(Codex: Card-Time Strategy) https://boardgamegeek.com/boardgame/131111/codex-card-time-strategy-deluxe-set
-(Age of Empires wiki) https://ageofempires.fandom.com/wiki/Age_of_Empires_Series_Wiki
-(Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Heroes_and_Events
-(Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Smoke_and_Saints
-(Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Conquerors
-(Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Regicide_Pack
+- (Anachronism) https://boardgamegeek.com/boardgame/14038/anachronism
+- (Codex: Card-Time Strategy) https://boardgamegeek.com/boardgame/131111/codex-card-time-strategy-deluxe-set
+- (Age of Empires wiki) https://ageofempires.fandom.com/wiki/Age_of_Empires_Series_Wiki
+- (Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Heroes_and_Events
+- (Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Smoke_and_Saints
+- (Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Conquerors
+- (Unfinished AoE ECG expansion) https://cardguide.fandom.com/wiki/Regicide_Pack
 
 ## Permissions
 **Had approval to come up with this (with non-commercial stipulation) from:**
