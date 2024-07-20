@@ -89,6 +89,18 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Food/Wood at the start
 * Gold/Stone in the mid-game
 
+## Concepts to keep from the original
+* Buildings are what creates land and what explores it
+* Units having attack bonuses
+* Units having a flat attack value
+* Units dying
+* Units exhausting 
+ * Units having an active state
+ * Units having an inactive state
+* Having a static turn order
+* Having smaller-scale battles
+
+
 ## Art cost
 ~ 250 USD (389.32 AUD)/a card
 
