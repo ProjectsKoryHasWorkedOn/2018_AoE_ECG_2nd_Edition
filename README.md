@@ -333,7 +333,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Can't convert them
 * Can't target them with event cards
 * Can attach them to other unit cards
- * Have to kill all other units on the attached unit card before being able to target the hero on it
+  * Have to kill all other units on the attached unit card before being able to target the hero on it
 * Can attach them to other unit cards
 * What heroes to add
  * Ahuitzotl (Aztec)
