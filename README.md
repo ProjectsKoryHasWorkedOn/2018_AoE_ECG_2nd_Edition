@@ -109,7 +109,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
   * Gold. Needed more in the mid to late game
   * Stone. Needed more in the mid to late game
   * Wood
-* Units having attack bonuses
+* Units having attack bonuses. There's a counter unit for every unit in the game so a large force consisting of all of the same troops shouldn't win if the opponent counters it. 
 * Units having a flat attack value
 * Units dying
 * Units exhausting 
@@ -121,11 +121,45 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Maintaining a limited base size. Should help make it fit on the table if players can't for example, play a 1 row x 24 columns grid of cards as opposed to a 4 row * 6 columns grid of cards
 * Sticking with cards. Affordable. Can fit more information on them. Can present art on them
 * Maintaining a tech tree
+* Being able to hit and run with ranged units
+* Ability to play different playstyles
+  * Rushing
+  * Booming
+  * Turtling
 
 ### On what I wanted to remove from the AoE ECG
 * Buildings are what creates land and what explores it
 * Blindly drawing cards from a deck
 * Pre-game deck-building
+
+### On what I observed Age of Empires II had but the ECG did not have
+* Ability to garrison troops inside of buildings like towers or castles
+  * For protection
+  * For healing
+  * For dealing more damage inside of the building 
+* Chance for animal lures to be unsuccessful
+* Defender advantage due to closer production buildings
+* Resource depletion. Resources close to you run out first so forced to gain control over other positions of the map that are closer to the enemy for your resources
+* Need for scouting
+  * To find where your opponent is
+  * To work out what strategy your opponent is going for
+  * To work out what armies are coming towards your base and from where
+* Need to reseed farms
+* Randomly generated maps
+* Civilizations faring better on some maps than others
+* Inverted pyramid of interesting decisions. The player had to make only a few decisions at first but the number grows
+* Race to secure strategically valuable positions on the map
+* Sending villagers forward
+  * E.g. To make offensive structures like towers
+  * E.g. To make military production buildings
+  * E.g. To fight with them (in case Sappers is researched)
+  * E.g. To repair buildings and siege units
+* Well-integrated team-play
+  * Need to coordinate with teammates
+    * E.g. For trade
+    * E.g. For what unit composition to make
+    * E.g. For fighting together
+    * E.g. For what civilizations to pick
 
 ### On what I thought wouldn't be best for the AoE ECG
 * Cards as resources
@@ -134,6 +168,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 
 ### On what I wasn't sure would be best for the AoE ECG
 #### Town board with different action spots concept
+* Could perhaps hide it through a screen until opponent is in your town
 * E.g. Town Center having a create villager spot
 * E.g. Blacksmith having a research blacksmith technology spot
 * E.g. Edge of the board having a fight, raid, and scout spot
@@ -167,7 +202,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 ## Art direction
 ### Art style
 * Realistic
-* Vibrant
+* Vibrant. Bright colors
 
 ### Artistic talent needed
 * Sketching 
@@ -440,7 +475,8 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
  * Harthacnut (Viking)
  * Siegfried (Viking)
  
-
+### Tactics cards
+* Pillage - Gain resources when destroying enemy buildings this turn
  
 
 
