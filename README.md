@@ -4,32 +4,35 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 ## Aims I had
 * Finishing it
   * Adding content that was planned but never happened
-* Having thematic ties
+* Maintaining thematic ties
 * Making it affordable
+  * Making it non-collectible
+    * Making it so players could P&P civilization packs 
 * Making it quick to set-up and pack-up
-* Making it flow well
-  * Reducing how much time players have to stop playing in order to
-    * Do calculations
-    * Move pieces around  
 * Making it accessible
-  * Releasing P&P files for free
+  * Releasing the P&P files for free
   * Releasing it on Tabletop Simulator
-* Making it easy to teach
-  * Having few rules exceptions
-  * Having rules that are intuitive to an extent
 * Making it pretty
 * Making it less of a time commitment to start and finish a game
+  * Making it flow better
+  * Making it progress faster
+    * Reducing how much time players have to stop playing in order to
+      * Do calculations
+      * Move pieces around
+  * Making it take less time to teach
+    * Having few rules exceptions
+    * Having rules that are intuitive to an extent
 * Making it immersive
   * Minimizing how often players have poor options (e.g. useless technologies to choose from)
+  * Making it so each game has the potential to be different from the last 
 * Making it competitive
   * Making it so no player has an unfair advantage due to access to particular cards that their opponent lacks
-  * Making it so no player can utilize unfair tactics (e.g. making it so a player can't play "The King is Dead, Long Live the King" 5 times in a row, which helps them win with a wonder without their opponent being able to attack at all)
+  * Making it so no player can utilize dirty tactics (e.g. making it so a player can't play "The King is Dead, Long Live the King" 5 times in a row, which helps them win with a wonder without their opponent being able to attack at all)
   * Making it so there's no entity that can't be stopped, that it has weaknesses 
   * Making it so there's no entity that has no use, that it has strengths
   * Making it so the counter units cost resources too so the defender is set back a bit by responding to the moves of the attacking player
-  * Making it so there's some hidden information (if possible)
+  * Making it so there's some hidden information (if possible) so the attacker has some initiative
   * Making it so each civilization has a shot at winning versus all other civilizations.
-* Making it so each game has a lot of potential to be different from the last 
 * Making it so the winner is the best decision-maker as opposed to the luckiest or best memorizer
   * Making it so luck has little impact on who wins 
 * Making it so the game is strategically interesting
@@ -44,10 +47,10 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 - [David Sirlin's approach to using tier lists and match-up charts for measuring game balance](https://www.sirlin.net/articles/game-balance-and-yomi)
 - [Age of Empires II](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal)
 - [Age of Empires ECG](https://ageofempires.fandom.com/wiki/Age_of_Empires:_Expandable_Card_Game)
-- [Unfinished Age of Empires ECG expansion - Heroes and Events](https://cardguide.fandom.com/wiki/Heroes_and_Events)
-- [Unfinished Age of Empires ECG expansion - Smoke and Saints](https://cardguide.fandom.com/wiki/Smoke_and_Saints)
-- [Unfinished Age of Empires ECG expansion - Conquerors](https://cardguide.fandom.com/wiki/Conquerors)
-- [Unfinished Age of Empires ECG expansion - Regicide Pack](https://cardguide.fandom.com/wiki/Regicide_Pack)
+- [Never released Age of Empires ECG expansion - Heroes and Events](https://cardguide.fandom.com/wiki/Heroes_and_Events)
+- [Never released Age of Empires ECG expansion - Smoke and Saints](https://cardguide.fandom.com/wiki/Smoke_and_Saints)
+- [Never released Age of Empires ECG expansion - Conquerors](https://cardguide.fandom.com/wiki/Conquerors)
+- [Never released Age of Empires ECG expansion - Regicide Pack](https://cardguide.fandom.com/wiki/Regicide_Pack)
 
 ## Permissions
 **Had approval to come up with this (with non-commercial stipulation) from:**
@@ -64,31 +67,28 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 
 ## Reasons I stopped working on this
 * Had difficulties coming up with solutions for some of the problems I had with the original game
-* Had difficulties speaking to Microsoft representative to ensure I wasn't violating their IP rights
-* Realized I underestimated the investment needed to make a board game
-  * ~ 200 AUD/per card art
+* Had difficulties reaching a Microsoft representative to ensure I wasn't violating their IP rights in making this
+* Realized that I underestimated the investment needed to make a board game
+  * ~ 200-250 USD/per card art
   * ~ years of time
-* Realized that there wasn't a large enough audience for this
-* Realized that I don't want to design a board game on one's own
+* Realized that I don't want to design a board game on one's own since that's a lot harder
  * Partner could help with playtesting
  * Partner could provide input on ideas
- * Partner could have different skills that could be utilized
+ * Partner could have helpful skills that could be utilized
   * Probability
   * Statistics
   * Graphic design
   * Game design
+* Wasn't able to obtain the original Age of Empires ECG assets
+* Wasn't certain that there was a large enough audience for this to justify working on it
 
-## Resources
-* Food
-* Gold
-* Stone
-* Wood
-
-## Resources needed at what stages of the game
-* Food/Wood at the start
-* Gold/Stone in the mid-game
-
-## Concepts to keep from the original
+## Ideas I had
+### On what I wanted to keep from the AoE ECG
+* Need to manage 4 resources
+  * Food
+  * Gold. Needed more in the mid to late game
+  * Stone. Needed more in the mid to late game
+  * Wood
 * Units having attack bonuses
 * Units having a flat attack value
 * Units dying
@@ -101,30 +101,49 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Maintaining a limited base size. Should help make it fit on the table if players can't for example, play a 1 row x 24 columns grid of cards as opposed to a 4 row * 6 columns grid of cards
 * Sticking with cards. Affordable. Can fit more information on them. Can present art on them
 
-## Concepts to change from the original
+### On what I wanted to remove from the AoE ECG
 * Buildings are what creates land and what explores it
 
-## Ideas I had 
-* B
-* Game board with different action spots
-  * E.g. Town Center having a create villager spot
-  * E.g. Blacksmith having a research blacksmith technology spot
-  * E.g. Scout spot
-  * E.g. Raid spot
-  * E.g. Battle spot
+### On what I wasn't sure would be best for the AoE ECG
+#### Town board with different action spots concept
+* E.g. Town Center having a create villager spot
+* E.g. Blacksmith having a research blacksmith technology spot
+* E.g. Edge of the board having a fight, raid, and scout spot
 
+### On what I wanted to add to the AoE ECG
+#### Heroes concept
+* Stats of them are buffed versions of standard units (e.g. Theodoric the Goth is a stronger Huskarl) with the same prerequisites and resource costs as their base model
+* Can only be played once
+* Can only have one of them
+* Can only pick one hero/a game
+* Can't convert them
+* Can't target them with event cards
+* Can attach them to other unit cards
+  * Have to kill all other units on the attached unit card before being able to target the hero on it
+* Can attach them to other unit cards
 
-## Art cost
-~ 250 USD (389.32 AUD)/a card
+#### King of the Hill victory condition concept
+* Adding game ending condition if control over a monument is retained for six turns
+
+#### Regicide victory condition concept
+* Adding game ending condition if opponent's / your king is killed
+
+#### Score victory condition concept
+* Adding game ending condition after a certain number of turns have passed. The player or team with the highest score after whatever amount of turns this is, wins
+  * Score based on Age advancement
+  * Score based on leftover resources
+  * Score based on kills
+  * Score based on surviving entities
+  * Score based on researced technologies
 
 ## Art direction
+### Art style
 * Realistic
 * Vibrant
-* Full color
 
-### Artist talent needed
-* Sketching skill
-* Painting - Acryllic skill
+### Artistic talent needed
+* Sketching 
+* Painting w/ Acryllic
 
 ### Artwork size
 ~ 5.75 inches by 6.75 inches
@@ -148,12 +167,11 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Berserkers and the axe thrower can wear less clothing than the others.
 * Janissaries must have their distinctive hats.
 * Woad berserkers must have their distinctive tattoos, pants, and neck torques.
-* Dervish should have a scimitar.
 * Samurai should have distinctive Japanese armor.
 * Teutonic Knights and Samurai are foot units.
 
 ### Art guidance for the heroes
-* Could use [Anachronism](https://www.ccgtrader.net/games/anachronism) for inspiration since it's of a similar art style to the AoE ECG
+* Could use [Anachronism](https://www.ccgtrader.net/games/anachronism) for inspiration since it's of a similar art style to the Age of Empires ECG
 
 ### Art style based on the civilization
 * African style:
@@ -204,7 +222,9 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
   * Celts
   * Franks
 
-## New civilization card - Byzantine 
+## New content I wanted to add
+### Civilization cards
+#### Byzantine card
 * Unique Unit: Cataphract
 * Monk Healing Rate has a +2 modifier, thus making it easier to heal units.
 * Camels, Skirmishers and Pikeman cost less to enlist. X
@@ -212,7 +232,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Advancing to the Imperial Age costs 10F, 8G, 2B.
 * All Buildings played by a Byzantine player get the following HP bonus: Age I - 10 HP, Age II - 20 HP, Age III - 30 HP, Age IV - 40 HP.
 
-## New civilization card - Chinese
+#### Chinese card
 * Unique Unit: Cho Ko Nu
 * Start the game with 6 villagers and 2 food, instead of 3 villagers and 5 food.
 * Farms produce additional food. X
@@ -220,7 +240,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Demolition Ships have increased HP. X
 * All Technologies played by a Chinese player get the following reduction in cost: Age II - 1, Age III - 2, Age IV - 3
 
-## New civilization card - Teutons
+#### Teuton card
 * Unique Unit: Teutonic Knight
 * Conversion Rate modifier is -1 against Teutonic units, thus making it harder to convert.
 * A unit with monks attached can assist with its Healing Attempt on an adjacent unit. A unit can only be targeted by this once per turn. The assisting monks cannot be engaged in combat.
@@ -228,14 +248,14 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Murder Holes may be played without cost.
 * Farms have a lower building cost. X
 
-## New civilization card - Turks
+#### Turk card
 * Unique Unit: Janissary
 * When entering the Imperial Age, retrieve Chemistry from your Play deck and play it for free.
 * When entering the Castle Age, retrieve Light Cavalry from your Play deck and play it for free.
 * Turks start the game with Gold Mining in play.
 * Gunpowder Units have increased HP. X All Age Advancement only takes 1 research.
 
-## New cards - buildings
+### Building cards
 * Bombard Tower
 * Farm (Chinese)
 * Farm (Teuton)
@@ -248,7 +268,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Wonder (Teuton)
 * Wonder (Turk)
 
-## New cards - units
+### Unit cards
 * Bombard Cannon (Turk)
 * Camel (Byzantine)
 * Cannon Galleon (Turk)
@@ -268,7 +288,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Teutonic Knight (Teuton)
 * Xolotl Warrior
 
-## New cards - technologies
+### General technology cards
 * Architecture
 * Atonement
 * Ballistics
@@ -290,7 +310,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Supplies
 * Treadmill Crane
 
-## New cards - unique technologies
+### Unique technology cards
 * Anarchy (Goth)
 * Atheism (Hun)
 * Bearded Axe (Frank)
@@ -326,7 +346,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Yeomen (Briton)
 * Zealotry (Saracen)
 
-## New cards - unit upgrade technologies
+### Unit upgrade technology cards
 * Eagle Warrior
 * Elite Cannon Galleon (Turk)
 * Elite Cataphract (Byzantine)
@@ -341,19 +361,8 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Keep (Teuton)
 * Pikeman (Byzantine)
 
-## New concept - heroes
-* Stats of them are buffed versions of standard units (e.g. Theodoric the Goth is a stronger Huskarl) with the same prerequisites and resource costs as their base model
-* Can only be played once
-* Can only have one of them
-* Can only pick one hero/a game
-* Can't convert them
-* Can't target them with event cards
-* Can attach them to other unit cards
-  * Have to kill all other units on the attached unit card before being able to target the hero on it
-* Can attach them to other unit cards
 
-
-## New cards - heroes
+### Hero cards
  * Ahuitzotl (Aztec)
  * Cuitlahuac (Aztec)
  * Itzcoatl (Aztec)
@@ -404,16 +413,6 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
  * Siegfried (Viking)
  
 
-
-## Victory conditions
-* Adding game ending condition if control over a monument is retained for six turns
-* Adding game ending condition if opponent's / your king is killed
-* Adding game ending condition after a certain number of turns have passed. The player or team with the highest score after whatever amount of turns this is, wins
-  * Score based on Age advancement
-  * Score based on leftover resources
-  * Score based on kills
-  * Score based on surviving entities
-  * Score based on researced technologies
  
 
 
