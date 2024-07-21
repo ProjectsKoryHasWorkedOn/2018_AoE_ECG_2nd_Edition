@@ -69,18 +69,38 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Had difficulties coming up with solutions for some of the problems I had with the original game
 * Had difficulties reaching a Microsoft representative to ensure I wasn't violating their IP rights in making this
 * Realized that I underestimated the investment needed to make a board game
-  * ~ 200-250 USD/per card art
+  * ~ 250 USD/per card art
   * ~ years of time
 * Realized that I don't want to design a board game on one's own since that's a lot harder
  * Partner could help with playtesting
  * Partner could provide input on ideas
+ * Partner could provide their own ideas
+ * Partner could help with proof-reading the rules
  * Partner could have helpful skills that could be utilized
   * Probability
   * Statistics
   * Graphic design
-  * Game design
 * Wasn't able to obtain the original Age of Empires ECG assets
 * Wasn't certain that there was a large enough audience for this to justify working on it
+* Would have preferred to do one's own project from the start with no non-commcerical stipulation so I'd be able to obtain funding
+* Worked out that I'd prefer to be involved in making video games over board games
+  * Easier to playtest
+  * Easier to make changes
+  * Have more expertise with this
+
+## Categories it'd fall under
+* City Building
+* Civilization
+* Fighting
+* Medieval
+* Print & Play
+* Video Game Theme
+
+## Mechanics it'd have
+* Rock-Paper-Scissors
+* Tech Trees/Tech Tracks
+* Variable Player Powers
+
 
 ## Ideas I had
 ### On what I wanted to keep from the AoE ECG
