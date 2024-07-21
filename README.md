@@ -126,7 +126,27 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
   * Rushing
   * Booming
   * Turtling
+* Having combat be as complex as it is now
+  * Attack value
+  * Attack modifiers value
+      * Attack bonuses vs. certain armor classes
+      * Attack bonuses due to researched technologies
+  * HP value
+  * HP modifiers value
+      * HP bonuses vs. certain armor classes
+      * HP bonuses due to researched technologies
+  * Armor classes value
+  * Quantity of unit value. This complicates the formula more-so than all the other values
+      * Explanation A
+<MATH>
+Damage = Round down ( (Unit quantity * (Attack factoring in attack modifiers)) / (HP factoring  in HP modifiers) )
+</MATH>
+      * Explanation B
+<MATH>
+Damage = The closest positive integer multiple of HP factoring in HP modifiers that can fit into (Unit quantity * (Attack factoring in attack modifiers))
+</MATH>
 
+  
 ### On what I wanted to remove from the AoE ECG
 * Buildings are what creates land and what explores it
 * Blindly drawing cards from a deck
@@ -146,6 +166,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
   * To work out what armies are coming towards your base and from where
 * Need to reseed farms
 * Randomly generated maps
+* Population caps
 * Civilizations faring better on some maps than others
 * Inverted pyramid of interesting decisions. The player had to make only a few decisions at first but the number grows
 * Race to secure strategically valuable positions on the map
@@ -156,6 +177,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
   * E.g. To repair buildings and siege units
 * Well-integrated team-play
   * Need to coordinate with teammates
+    * E.g. For gifting resources 
     * E.g. For trade
     * E.g. For what unit composition to make
     * E.g. For fighting together
@@ -164,13 +186,54 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 ### On what I thought wouldn't be best for the AoE ECG
 * Cards as resources
 * Dice combat
-* Abstract battlefield like the patrol zone in Codex
+* Having a time limit on turns
+* Abstract battlefield like in Ashes Reborn or in Codex (the patrol zone)
+* Having an area between players that is fought over like in The Ares Project (the frontier)
 * Playing cards from binders instead of from a deck
   * Binders are expensive (~ 45 AUD/480 card binder)
   * Binders make it hard to access the cards
 * Simultaneous turns or phases of turns
+* Using pen and paper to track resources
+* Using a resource track to track resources
+* Making combat even more complicated
+  * Armor value. This complicates the formula even more
+<MATH>
+Damage = (Attack of the attacking entity factoring in attack modifiers) - (Armor of the defending entity factoring in armor modifiers) where this can never be  < 0
+</MATH>
+   * Accuracy value. Having an additional step (seeing if the unit hits or not) would increase the duration of combat. This could, for example, be implemented by having a d10 die roll where you must roll a certain number or higher to hit the target. E.g. For an Archer to hit a unit, this could require a 3 or higher (80% odds of a hit) while for a Trebuchet to hit a unit, this could require a 9 or higher (20% odds of a hit).
+   * Rate of fire value
+
 
 ### On what I wasn't sure would be best for the AoE ECG
+
+
+#### Having a map with regions that can be contested for
+* How big would it be?
+* What map features would it represent?
+   * Elevation
+   * Sea that's passible for naval units
+   * Forests
+   * Desert
+   * Plains
+   * Mountains that are impassable
+* What resources would map regions contain?
+* How would each player's stuff fit on the map?
+* How many players could play on the map?
+* How would each player's stuff traverse the map?
+* Would it be rectangular shaped so cards could fit?
+* Would it be diamond shaped?
+* Would it be square shaped?
+* Would it be hexagonal shaped?
+* Would this interface with the Town board of each player? In WarCraft: The Board Game and StarCraft: The Board Game, there's a single tile on the map that interfaces with each player's town.
+* Would this introduce an exploration aspect to the game that involves flipping over/placing new map regions
+
+#### Having a movement value on each unit card, which indicfbpates how fast that unit traverses the map
+
+#### Allowing for combat between more than two battle participants
+
+#### Recurring villager cost to unpack/pack the Trebuchet
+* This would be opposed to a base villager cost
+
 #### Flipping over the card when the unit is present in a battle
 * Way of partially hiding them from the opponent. Can still see where they're moving
 
@@ -332,6 +395,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Having a physical representation of the resources
   * Using brown, grey, red, and yellow resource cubes (cheap option)
   * Using wood, stone, food, and gold resource bits (expensive option)
+* Having opaque card sleeves to provide stability to the P&P card and make them less see through
 
 
 
