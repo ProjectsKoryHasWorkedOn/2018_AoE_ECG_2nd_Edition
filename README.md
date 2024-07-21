@@ -121,6 +121,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Maintaining a limited base size. Should help make it fit on the table if players can't for example, play a 1 row x 24 columns grid of cards as opposed to a 4 row * 6 columns grid of cards
 * Sticking with cards. Affordable. Can fit more information on them. Can present art on them
 * Maintaining a tech tree
+* Having a researched technologies zone. Can play some technologies on others (E.g. the "Long Swordsman" card on top of the "Man-at-Arms" card) in order to conserve some space
 * Being able to hit and run with ranged units
 * Ability to play different playstyles
   * Rushing
@@ -148,9 +149,11 @@ Damage = The closest positive integer multiple of HP factoring in HP modifiers t
 
   
 ### On what I wanted to remove from the AoE ECG
-* Buildings are what creates land and what explores it
+* Buildings are what creates land and what explores it.  A lot of rules had to be introduced in order to make this idea a part of the Age of Empires ECG. It affects how the village is formed (e.g. there's a limit of 3 rows and ∞ columns), how movement works (e.g. a unit can move from a fringe building (a building on the outskirts of one's village sans the bottom edge of one's village) to an opponent's fringe building), and how attacking works (e.g. if your unit card is on an opponent's building card and your opponent has a unit card there too, you have the choice to attack their building or their unit). When I read a sentence like "There are two types of null spaces: non-fringe and fringe", I want to pack-up this game and play another game because understanding how this works is joyless. I don't like it all. This idea was made more complicated with the addition of further rules in the Nautical expansion
 * Blindly drawing cards from a deck
 * Pre-game deck-building
+* Villager research cost.
+* Being unable to attack your opponent in the Dark Age
 
 ### On what I observed Age of Empires II had but the ECG did not have
 * Ability to garrison troops inside of buildings like towers or castles
@@ -159,7 +162,10 @@ Damage = The closest positive integer multiple of HP factoring in HP modifiers t
   * For dealing more damage inside of the building 
 * Chance for animal lures to be unsuccessful
 * Defender advantage due to closer production buildings
-* Resource depletion. Resources close to you run out first so forced to gain control over other positions of the map that are closer to the enemy for your resources
+* Town Centers having an attack value
+* Castles having an attack value
+* Having a line of sight value
+* Resource depletion (with the exception of Fish Traps in Age of Empires ECG). Resources close to you run out first so forced to gain control over other positions of the map that are closer to the enemy for your resources
 * Fog of war and large maps, which creates a need for scouting
   * To find where your opponent is
   * To work out what strategy your opponent is going for
@@ -186,7 +192,12 @@ Damage = The closest positive integer multiple of HP factoring in HP modifiers t
 ### On what I thought wouldn't be best for the AoE ECG
 * Cards as resources
 * Dice combat
+* Having action cards
+* Keeping track of research technologies via a tech tree. Takes up too much space
+* Being awarded VPs for controlling map regions
+* Having control groups that represent groups of entities on single spaces of the map
 * Having a time limit on turns
+* Making the combat much simpler like damage dealt = HP - Attack
 * Abstract battlefield like in Ashes Reborn or in Codex (the patrol zone)
 * Having an area between players that is fought over like in The Ares Project (the frontier)
 * Playing cards from binders instead of from a deck
@@ -205,7 +216,19 @@ Damage = (Attack of the attacking entity factoring in attack modifiers) - (Armor
 
 
 ### On what I wasn't sure would be best for the AoE ECG
+#### Having resources deplete
+* Would resources taken be indicated by taking them off the space?
+* Would resources taken be tracked instead of taking them off the space?
+* How many resources would you get before having to re-build the Farm/Lumber Camp/Mine/Fish Trap
+   * Would technologies like Horse Collar, Heavy Plow, and Crop Rotation increase the amount of food gathered from a farm?
+   * Would technologies like Horse Collar, Heavy Plow, and Crop Rotation decrease how quick farms deplete?
 
+ 
+
+#### Having map cards indicating how to set-up the map for a variable set-up
+* Indicating where particular terrain is
+* Indicating resource distirubtion
+* Indicating player counts the map supports
 
 #### Having a map with regions that can be contested for
 * How big would it be?
@@ -247,6 +270,9 @@ Damage = (Attack of the attacking entity factoring in attack modifiers) - (Armor
 * E.g. Edge of the board having a fight, raid, and scout spot
 
 ### On what I wanted to add to the AoE ECG
+#### Time research cost concept
+* Using research bits to track technologies that are in the process of being researched. The number of bits on it corresponds to the number of turns it takes for the technology to come into effect. One is removed each turn until the research is complete 
+
 #### Card limits concept
 * ~ 10 wall cards/per player
 * Having a card limit of 1/per player for building and tech cards that are only played up to once/each game (e.g. “Hand Cart”, “Mill”, & “Elite War Elephant (Persian)”)
@@ -397,6 +423,61 @@ Damage = (Attack of the attacking entity factoring in attack modifiers) - (Armor
   * Using wood, stone, food, and gold resource bits (expensive option)
 * Having opaque card sleeves to provide stability to the P&P card and make them less see through
 
+## Mistakes I wanted to fix
+### Unit cards
+* Spearman (1st artwork)
+  * Cost of the card: "1F, 1W"
+* Spearman (Goth) 
+  * Cost of the card: "1F, 1W"
+* Skirmisher 
+  * Cost of the card: "1F, 1W"
+* Camel 
+  * Prerequisite Age: "Age III"
+* War Elephant (Persian) 
+  * Text on the card: "Movement: 2"
+* Monk
+  * HP of them: "6".
+  * Attack value of them: "0 AP".
+  *  Want to make a unit card for it even if the card isn't on the field. Can be used as a reference
+* Knight (Persian)
+  * Cost of them: 2F, 2G
+
+### Event cards
+* "Brushfire" 
+  * Brushfire is a word but the artwork doesn't match the word.
+  * Title of the card: "Bushfire"
+
+### Technology cards
+* "Padded Archer Armor" == 
+  * Cost of the card: "2F, 1B"
+* "Elite Huskarl" (Goth) == 
+  * Text on the card: "16 AP vs Archer"
+* "Elite Mangudai" (Mongol) == 
+  * Text on the card: "16 AP vs Siege"
+* "Elite War Elephant" (Persian) == 
+  * Text on the card: "Movement: 2"
+* "Paladin" == 
+  * Text on the card: "Movement: 2" 
+* "Pikeman (Japanese)" == 
+  * Cost of it: "1W, 1G, 1B"
+* "Pikeman (Viking)" == 
+  * Cost of it: "1W, 1G, 1B"
+* "Paladin" (Persian) == 
+  * Cost of the card: "2F, 3G"
+
+### Building cards
+* Charlamagne's Palace at Aix-la-Chapelle
+  * Title of the card: "Charlemagne's Palace at Aix-la-Chapelle"
+* Notre-Dame Cathedral
+  * Title of the card: "Notre-Dame de Paris"
+* Castle (Frank)
+  * Cost of the card: 10S, 15B
+
+### Relic cards
+* Golden Crown of Charlemange
+  * Title of the card: "Golden Crown of Charlemagne"
+
+
 
 
 ## New content I wanted to add
@@ -404,7 +485,6 @@ Damage = (Attack of the attacking entity factoring in attack modifiers) - (Armor
 ### Population tracker
 ### Score tracker
 ### Tech trees
-
 ### Civilization cards
 #### Byzantine card
 * Unique Unit: Cataphract
@@ -467,6 +547,10 @@ Damage = (Attack of the attacking entity factoring in attack modifiers) - (Armor
 * Steppe Lancer
 * Transport ship
 * Transport Ship (Saracen)
+* Trade carts / cogs
+  * Cost of the cards: 2W, 1G. Text on the card :"During the movement phase of one's turn, increment a die on the card. During the collection phase of one's turn, you can cash-in 1/2/3/5/8/12 gold based on if the number on the die is 1/2/3/4/5/6 and then the number on the die resets to 1"
+* Trebuchet
+  * Text on the card: "Put a token on it to denote if it's unpacked or packed. Allocate 5 villagers to the card during the allocation phase to change it's stance. The Trebuchet must be packed to attack and unpacked to move" 
 * Teutonic Knight (Teuton)
 * Xolotl Warrior
 
@@ -601,7 +685,229 @@ Damage = (Attack of the attacking entity factoring in attack modifiers) - (Armor
 ### Tactics cards
 * Pillage - Gain resources when destroying enemy buildings this turn
  
+Modified card text for Slave Trade. Your opponent must have at least 5 villagers.
 
+
+
+<WRAP>
+== "Revelation" ==
+Text on the card: "Search through the tactics card deck and select any one tactics card from it. Reshuffle it afterwards" 
+
+== "Build Up Your Defense" == 
+Text on the card: "Take up to 3 Stone walls from your buildings card deck and put them into play at no cost"
+
+== "Mercenaries" ==
+Text on the card: "Select a non-unique & non-siege unit card from one's unit cards deck and this card goes up for bid in gold with your bid of at least 1G. The highest bid gets the card with 5 tokens on it in their village. Bidding proceeds clockwise"
+
+== "Learn From Your Mistakes" ==
+Text on the card: "Put a played card back into one's deck and get the resource cost back from it"
+
+== "Spies" ==
+Text on the card: "May know which cards your opponent will play (if any) on their next turn during your current turn"
+
+== "Your Hunters Are Waylaid" ==
+Text on the card: Replace term "event cards" with "discovery cards"
+
+== "Copious book selection" ==
+Text on the card: "Research costs are not paid on target Technology or Upgrade, but the research time is doubled"
+
+== "Starting from scratch" ==
+Text on the card: "Flip over a Dark Age building from an opposing player"
+
+== "Your will is not strong enough" ==
+Text on the card: "Play after another player plays a card. Player must wait until their next turn to play that card"
+
+== "Inventive mind" ==
+Text on the card: "May play a technology card from a higher Age if the cost for it is still paid"
+
+== "Look to the future" ==
+Text on the card: "May play one tactics card without being in the pre-requisite Age for it and without paying the cost for it" 
+
+== "Knowledge has a price" ==
+Text on the card: "Opposing player must pay double the cost to put a technology card in play"
+
+== "Recruiting" ==
+Text on the card: "Exchange up to 5 villagers for up to 5 units on a unit card in play / put in play"
+
+== "Hidden strength" ==
+Text on the card: "Attach to a unit card. +4 HP"
+
+== "Strategist enlisted" ==
+Text on the card: "For one turn, all cards you play are discounted by 1 of any resource of your choice"
+
+== "Fortune teller" ==
+Text on the card: "May see the next 3 tactics card in the deck and re-arrange their order as well as put some on the bottom of the deck"
+
+== "Surprise skirmish" ==
+Text on the card: "May choose any of one your unit cards to fight an opposing player's unit card"
+
+
+
+### Map  cards
+
+=== Map cards ===
+<WRAP>
+== Arabia ==
+**Flavor text:**: “Arid desert with strategic elevations and cliffs, but sparse vegetation and water”
+(Land) Map features:
+•	More elevation. 
+•	Less Wood Sites. 
+•	Wood Sites have less Wood.
+
+
+
+== Archipelago ==
+**Flavor text:**: “A group of large islands. You might not be the only inhabitant on yours”
+(Water) Map features:
+•	Smaller grid (surrounded by water). 
+•	You share an island with an opponent (instead of an ally) in a 4P game. 
+
+
+
+== Baltic ==
+**Flavor text:**: “An ocean with peninsulas and sheltered bays.”
+(Water) Map features:
+•	A centre basin with a tonne of Fish. 
+•	The sides of the map have a tight chokepoint due to water and forests.
+•	Extra Sheep
+
+
+== Black Forest ==
+**Flavor text:**: “Islands of grass in a sea of trees. Follow the paths through the forest to find your allies and enemies”
+(Land) Map features:
+•	More Wood Sites
+•	Forests lead the way to other players
+**Set-up diagram:**
+
+== Coastal ==
+**Flavor text:**: “Where the land meets the ocean, with plenty of water and a large landmass for battles by land or by sea.”
+(Water) Map features:
+•	One side of the map has a small lake.
+•	One side of the map has a big open ocean with lots of Fish 
+**Set-up diagram:**
+
+== Continental ==
+**Flavor text:**: “A large body of land surrounded by the sea; rivers may separate players and teams”
+(Water) Map features:
+•	Rivers go to the middle of the map
+
+
+== Crater Lake ==
+**Flavor text:**: “An island brimming with gold in the center of a caldera lake. Steep elevation and lack of trees make it hard to build.”
+(Water) Map features:
+•	A smaller base
+•	Lots of Gold in the central island. 
+•	More Wolves. 
+**Set-up diagram:**
+
+== Fortress ==
+**Flavor text:**: “A walled city and all of the buildings you need to build up your forces quickly”
+Map features:
+•	Land map with only a central NML
+•	Play one Farm, House, Barracks, Watch Tower, a perimeter of Stone Walls with one Stone Gate.
+**Set-up diagram:**
+
+== Gold Rush ==
+**Flavor text:**: “A whole heap of gold and a few wolves in the middle of a desert”
+(Land) Map features:
+•	Less Gold Sites around your base
+•	More Gold Sites in the centre
+**Set-up diagram:**
+
+== Highlands ==
+**Flavor text:**: “Far from the ocean and heavily forested but with plenty of rivers and open space for maneuvers”
+(Land) Map features:
+•	Rivers and a shallow crossing connecting you to different players. 
+**Set-up diagram:**
+
+== Islands ==
+**Flavor text:**: “Each player starts alone on an island; uninhabited islands may be rich with resources, so be prepared to rule the sea.”
+(Water) Map features:
+•	Players start on isolated islands with water around and in the middle. 
+•	There are unoccupied islands with more resources than your first one. 
+**Set-up diagram:**
+
+== Mediterranean ==
+**Flavor text:**: “An island sea surrounded by land; souds deceptively peaceful”
+(Water) Map features:
+•	A central sea with lots of Fish
+•	Less Food on the mainland
+**Set-up diagram:**
+
+
+== Migration ==
+**Flavor text:**: “A tiny island that cannot support you for long before you must move to the mainland, where fighting is fierce.”
+(Water) Map features:
+•	Players start on a tiny land and must expand to a larger island. 
+•	No Boars and further away Sheep. 
+**Set-up diagram:**
+
+== Ghost Lake ==
+**Flavor text:**:  “The central lake is frozen over, creating a no-man's land.”
+(Land) Map features:
+•	More Wolves
+•	Less resources (the lake is barren)
+•	Cannot build on the lake
+**Set-up diagram:**
+
+== Team Islands ==
+**Flavor text:**: “One island shared by you and your allies, and another inhabited by your enemies. The islands are not connected by shallows, so beware of enemy Transport Ships.”
+(Water) Map features:
+•	Your team is on one island and the enemy team is on the other island.
+**Set-up diagram:**
+
+
+== Nomad ==
+**Flavor text:**: “Your villagers begin scattered without a Town Center or Scout Cavalry. Will you build a town immediately or struggle to find the perfect location to settle?”
+(Water) Map features:
+•	Your starting Town Center goes anywhere on the map. 
+•	Random terrain but certain water. 
+**Set-up diagram:**
+
+== Arena ==
+**Flavor text:**: “The walls around your clearing are your protection from the carnage in the middle.”
+(Land) Map features:
+•	A forest border
+•	Combat happens in a central NML
+•	Play a perimeter of Stone Walls with one Stone Gate.
+
+
+== Mongolia ==
+**Flavor text:**: “Cliffs abound on these parched and endless stepes”
+(Land) Map features:
+•	Plenty of wild animals
+•	An abundance of cliffs and forests in different orientations. 
+
+
+== Oasis ==
+**Flavor text:**: “Nearly all of the wood is in the center of the map, so be prepared to be chased around and around.”
+(Land) Map features:
+•	A forest covering a pond with Fish.
+•	Extra Sheep
+**Set-up diagram:**
+
+== Salt Marsh ==
+**Flavor text:**: “Swampy lowlands full of shallows and rivers that can prohibit expansionistic building.”
+(Water) Map features:
+•	A significant amount of the map is shallow terrain with water chokes.
+**Set-up diagram:**
+
+== Scandinavia ==
+**Flavor text:**: “In the northern wilderness the berry bushes have frozen, but there are hungry animals to be hunted and lots of gold”
+(Water) Map features:
+•	Less Forage Bushes
+•	Extra Deer
+•	Three Boars
+•	Water on the two sides
+•	Stone is less abundant
+**Set-up diagram:**
+
+== Yucatan ==
+**Flavor text:**: “In the tropical forest food is abundant, but jaguars stalk beneath the canopy.”
+(Land) Map features:
+•	Lots of food (e.g. 12+ Sheep, 2+ Boar, 6-8+ Deer, two+ Berries)
+**Set-up diagram:**
+</WRAP>
 
 
 
