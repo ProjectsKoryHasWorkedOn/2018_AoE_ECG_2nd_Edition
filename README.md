@@ -683,232 +683,182 @@ Damage = (Attack of the attacking entity factoring in attack modifiers) - (Armor
  * Relic cards: "The Cross of Cong", "A Branch from the Bo Tree", "Book of Zaydi", "Golden Crown of Charlemagne", "The Holy Grail", "Raven Banner of King Knut", "Golden Gonjir", "Seal of Muhammed", & "Kusanagi-no-tsuruyi"
  
 ### Tactics cards
-* Pillage - Gain resources when destroying enemy buildings this turn
- 
-Modified card text for Slave Trade. Your opponent must have at least 5 villagers.
-
-
-
-<WRAP>
-== "Revelation" ==
-Text on the card: "Search through the tactics card deck and select any one tactics card from it. Reshuffle it afterwards" 
-
-== "Build Up Your Defense" == 
-Text on the card: "Take up to 3 Stone walls from your buildings card deck and put them into play at no cost"
-
-== "Mercenaries" ==
-Text on the card: "Select a non-unique & non-siege unit card from one's unit cards deck and this card goes up for bid in gold with your bid of at least 1G. The highest bid gets the card with 5 tokens on it in their village. Bidding proceeds clockwise"
-
-== "Learn From Your Mistakes" ==
-Text on the card: "Put a played card back into one's deck and get the resource cost back from it"
-
-== "Spies" ==
-Text on the card: "May know which cards your opponent will play (if any) on their next turn during your current turn"
-
-== "Your Hunters Are Waylaid" ==
-Text on the card: Replace term "event cards" with "discovery cards"
-
-== "Copious book selection" ==
-Text on the card: "Research costs are not paid on target Technology or Upgrade, but the research time is doubled"
-
-== "Starting from scratch" ==
-Text on the card: "Flip over a Dark Age building from an opposing player"
-
-== "Your will is not strong enough" ==
-Text on the card: "Play after another player plays a card. Player must wait until their next turn to play that card"
-
-== "Inventive mind" ==
-Text on the card: "May play a technology card from a higher Age if the cost for it is still paid"
-
-== "Look to the future" ==
-Text on the card: "May play one tactics card without being in the pre-requisite Age for it and without paying the cost for it" 
-
-== "Knowledge has a price" ==
-Text on the card: "Opposing player must pay double the cost to put a technology card in play"
-
-== "Recruiting" ==
-Text on the card: "Exchange up to 5 villagers for up to 5 units on a unit card in play / put in play"
-
-== "Hidden strength" ==
-Text on the card: "Attach to a unit card. +4 HP"
-
-== "Strategist enlisted" ==
-Text on the card: "For one turn, all cards you play are discounted by 1 of any resource of your choice"
-
-== "Fortune teller" ==
-Text on the card: "May see the next 3 tactics card in the deck and re-arrange their order as well as put some on the bottom of the deck"
-
-== "Surprise skirmish" ==
-Text on the card: "May choose any of one your unit cards to fight an opposing player's unit card"
-
-
+* Pillage
+  * Text on the card: "Gain resources when destroying enemy buildings this turn"
+* Slave Trade.
+  * Modified card text: "Your opponent must have at least 5 villagers."
+*  "Revelation" 
+  * Text on the card: "Search through the tactics card deck and select any one tactics card from it. Reshuffle it afterwards" 
+* "Build Up Your Defense"  
+  * Text on the card: "Take up to 3 Stone walls from your buildings card deck and put them into play at no cost"
+* "Mercenaries" 
+  * Text on the card: "Select a non-unique & non-siege unit card from one's unit cards deck and this card goes up for bid in gold with your bid of at least 1G. The highest bid gets the card with 5 tokens on it in their village. Bidding proceeds clockwise"
+* "Learn From Your Mistakes" 
+  * Text on the card: "Put a played card back into one's deck and get the resource cost back from it"
+* "Spies" 
+  * Text on the card: "May know which cards your opponent will play (if any) on their next turn during your current turn"
+* "Your Hunters Are Waylaid" 
+  * Text on the card: Replace term "event cards" with "discovery cards"
+* "Copious book selection" 
+  * Text on the card: "Research costs are not paid on target Technology or Upgrade, but the research time is doubled"
+* "Starting from scratch" 
+  * Text on the card: "Flip over a Dark Age building from an opposing player"
+* "Your will is not strong enough"
+  * Text on the card: "Play after another player plays a card. Player must wait until their next turn to play that card"
+* "Inventive mind" 
+  * Text on the card: "May play a technology card from a higher Age if the cost for it is still paid"
+* "Look to the future" 
+  * Text on the card: "May play one tactics card without being in the pre-requisite Age for it and without paying the cost for it" 
+* "Knowledge has a price" 
+  * Text on the card: "Opposing player must pay double the cost to put a technology card in play"
+* "Recruiting" 
+  * Text on the card: "Exchange up to 5 villagers for up to 5 units on a unit card in play / put in play"
+* "Hidden strength" 
+  * Text on the card: "Attach to a unit card. +4 HP"
+* "Strategist enlisted" 
+  * Text on the card: "For one turn, all cards you play are discounted by 1 of any resource of your choice"
+* "Fortune teller" 
+  * Text on the card: "May see the next 3 tactics card in the deck and re-arrange their order as well as put some on the bottom of the deck"
+* "Surprise skirmish" 
+  * Text on the card: "May choose any of one your unit cards to fight an opposing player's unit card"
 
 ### Map  cards
-
-=== Map cards ===
-<WRAP>
-== Arabia ==
+#### Arabia 
 **Flavor text:**: “Arid desert with strategic elevations and cliffs, but sparse vegetation and water”
-(Land) Map features:
-•	More elevation. 
-•	Less Wood Sites. 
-•	Wood Sites have less Wood.
+* (Land) Map features:
+  * More elevation. 
+  * Less Wood Sites. 
+  * Wood Sites have less Wood.
 
+#### Archipelago 
+* **Flavor text:**: “A group of large islands. You might not be the only inhabitant on yours”
+* (Water) Map features:
+  * Smaller grid (surrounded by water). 
+  * You share an island with an opponent (instead of an ally) in a 4P game. 
 
+#### Baltic 
+* **Flavor text:**: “An ocean with peninsulas and sheltered bays.”
+* (Water) Map features:
+  * A centre basin with a tonne of Fish. 
+  * The sides of the map have a tight chokepoint due to water and forests.
+  * Extra Sheep
 
-== Archipelago ==
-**Flavor text:**: “A group of large islands. You might not be the only inhabitant on yours”
-(Water) Map features:
-•	Smaller grid (surrounded by water). 
-•	You share an island with an opponent (instead of an ally) in a 4P game. 
-
-
-
-== Baltic ==
-**Flavor text:**: “An ocean with peninsulas and sheltered bays.”
-(Water) Map features:
-•	A centre basin with a tonne of Fish. 
-•	The sides of the map have a tight chokepoint due to water and forests.
-•	Extra Sheep
-
-
-== Black Forest ==
+#### Black Forest 
 **Flavor text:**: “Islands of grass in a sea of trees. Follow the paths through the forest to find your allies and enemies”
-(Land) Map features:
-•	More Wood Sites
-•	Forests lead the way to other players
-**Set-up diagram:**
+* (Land) Map features:
+  * More Wood Sites
+  * Forests lead the way to other players
 
-== Coastal ==
+#### Coastal 
 **Flavor text:**: “Where the land meets the ocean, with plenty of water and a large landmass for battles by land or by sea.”
-(Water) Map features:
-•	One side of the map has a small lake.
-•	One side of the map has a big open ocean with lots of Fish 
-**Set-up diagram:**
+* (Water) Map features:
+  * One side of the map has a small lake.
+  * One side of the map has a big open ocean with lots of Fish 
 
-== Continental ==
-**Flavor text:**: “A large body of land surrounded by the sea; rivers may separate players and teams”
-(Water) Map features:
-•	Rivers go to the middle of the map
+#### Continental 
+* **Flavor text:**: “A large body of land surrounded by the sea; rivers may separate players and teams”
+* (Water) Map features:
+  * Rivers go to the middle of the map
 
+#### Crater Lake 
+* **Flavor text:**: “An island brimming with gold in the center of a caldera lake. Steep elevation and lack of trees make it hard to build.”
+* (Water) Map features:
+  * A smaller base
+  * Lots of Gold in the central island. 
+  * More Wolves. 
 
-== Crater Lake ==
-**Flavor text:**: “An island brimming with gold in the center of a caldera lake. Steep elevation and lack of trees make it hard to build.”
-(Water) Map features:
-•	A smaller base
-•	Lots of Gold in the central island. 
-•	More Wolves. 
-**Set-up diagram:**
+#### Fortress 
+* **Flavor text:**: “A walled city and all of the buildings you need to build up your forces quickly”
+* Map features:
+  * Land map with only a central NML
+  * Play one Farm, House, Barracks, Watch Tower, a perimeter of Stone Walls with one Stone Gate.
 
-== Fortress ==
-**Flavor text:**: “A walled city and all of the buildings you need to build up your forces quickly”
-Map features:
-•	Land map with only a central NML
-•	Play one Farm, House, Barracks, Watch Tower, a perimeter of Stone Walls with one Stone Gate.
-**Set-up diagram:**
+#### Gold Rush 
+* **Flavor text:**: “A whole heap of gold and a few wolves in the middle of a desert”
+* (Land) Map features:
+  * Less Gold Sites around your base
+  * More Gold Sites in the centre
 
-== Gold Rush ==
-**Flavor text:**: “A whole heap of gold and a few wolves in the middle of a desert”
-(Land) Map features:
-•	Less Gold Sites around your base
-•	More Gold Sites in the centre
-**Set-up diagram:**
+#### Highlands 
+* **Flavor text:**: “Far from the ocean and heavily forested but with plenty of rivers and open space for maneuvers”
+* (Land) Map features:
+  * Rivers and a shallow crossing connecting you to different players. 
 
-== Highlands ==
-**Flavor text:**: “Far from the ocean and heavily forested but with plenty of rivers and open space for maneuvers”
-(Land) Map features:
-•	Rivers and a shallow crossing connecting you to different players. 
-**Set-up diagram:**
+#### Islands 
+* **Flavor text:**: “Each player starts alone on an island; uninhabited islands may be rich with resources, so be prepared to rule the sea.”
+* (Water) Map features:
+  * Players start on isolated islands with water around and in the middle. 
+  * There are unoccupied islands with more resources than your first one. 
 
-== Islands ==
-**Flavor text:**: “Each player starts alone on an island; uninhabited islands may be rich with resources, so be prepared to rule the sea.”
-(Water) Map features:
-•	Players start on isolated islands with water around and in the middle. 
-•	There are unoccupied islands with more resources than your first one. 
-**Set-up diagram:**
-
-== Mediterranean ==
-**Flavor text:**: “An island sea surrounded by land; souds deceptively peaceful”
-(Water) Map features:
-•	A central sea with lots of Fish
-•	Less Food on the mainland
-**Set-up diagram:**
+#### Mediterranean
+* **Flavor text:**: “An island sea surrounded by land; souds deceptively peaceful”
+* (Water) Map features:
+  * A central sea with lots of Fish
+  * Less Food on the mainland
 
 
-== Migration ==
-**Flavor text:**: “A tiny island that cannot support you for long before you must move to the mainland, where fighting is fierce.”
-(Water) Map features:
-•	Players start on a tiny land and must expand to a larger island. 
-•	No Boars and further away Sheep. 
-**Set-up diagram:**
+#### Migration 
+* **Flavor text:**: “A tiny island that cannot support you for long before you must move to the mainland, where fighting is fierce.”
+* (Water) Map features:
+  * Players start on a tiny land and must expand to a larger island. 
+  * No Boars and further away Sheep. 
 
-== Ghost Lake ==
-**Flavor text:**:  “The central lake is frozen over, creating a no-man's land.”
-(Land) Map features:
-•	More Wolves
-•	Less resources (the lake is barren)
-•	Cannot build on the lake
-**Set-up diagram:**
+#### Ghost Lake 
+* **Flavor text:**:  “The central lake is frozen over, creating a no-man's land.”
+* (Land) Map features:
+  * More Wolves
+  * Less resources (the lake is barren)
+  * Cannot build on the lake
 
-== Team Islands ==
-**Flavor text:**: “One island shared by you and your allies, and another inhabited by your enemies. The islands are not connected by shallows, so beware of enemy Transport Ships.”
-(Water) Map features:
-•	Your team is on one island and the enemy team is on the other island.
-**Set-up diagram:**
+#### Team Islands 
+* **Flavor text:**: “One island shared by you and your allies, and another inhabited by your enemies. The islands are not connected by shallows, so beware of enemy Transport Ships.”
+* (Water) Map features:
+  * Your team is on one island and the enemy team is on the other island.
 
 
-== Nomad ==
-**Flavor text:**: “Your villagers begin scattered without a Town Center or Scout Cavalry. Will you build a town immediately or struggle to find the perfect location to settle?”
-(Water) Map features:
-•	Your starting Town Center goes anywhere on the map. 
-•	Random terrain but certain water. 
-**Set-up diagram:**
+#### Nomad 
+* **Flavor text:**: “Your villagers begin scattered without a Town Center or Scout Cavalry. Will you build a town immediately or struggle to find the perfect location to settle?”
+* (Water) Map features:
+  * Your starting Town Center goes anywhere on the map. 
+  * Random terrain but certain water. 
 
-== Arena ==
-**Flavor text:**: “The walls around your clearing are your protection from the carnage in the middle.”
-(Land) Map features:
-•	A forest border
-•	Combat happens in a central NML
-•	Play a perimeter of Stone Walls with one Stone Gate.
+#### Arena 
+* **Flavor text:**: “The walls around your clearing are your protection from the carnage in the middle.”
+* (Land) Map features:
+  * A forest border
+  * Combat happens in a central NML
+  * Play a perimeter of Stone Walls with one Stone Gate.
 
+#### Mongolia 
+* **Flavor text:**: “Cliffs abound on these parched and endless stepes”
+* (Land) Map features:
+  * Plenty of wild animals
+  * An abundance of cliffs and forests in different orientations. 
 
-== Mongolia ==
-**Flavor text:**: “Cliffs abound on these parched and endless stepes”
-(Land) Map features:
-•	Plenty of wild animals
-•	An abundance of cliffs and forests in different orientations. 
+#### Oasis 
+* **Flavor text:**: “Nearly all of the wood is in the center of the map, so be prepared to be chased around and around.”
+* (Land) Map features:
+  * A forest covering a pond with Fish.
+  * Extra Sheep
 
+#### Salt Marsh 
+* **Flavor text:**: “Swampy lowlands full of shallows and rivers that can prohibit expansionistic building.”
+* (Water) Map features:
+  * A significant amount of the map is shallow terrain with water chokes.
 
-== Oasis ==
-**Flavor text:**: “Nearly all of the wood is in the center of the map, so be prepared to be chased around and around.”
-(Land) Map features:
-•	A forest covering a pond with Fish.
-•	Extra Sheep
-**Set-up diagram:**
+#### Scandinavia 
+* **Flavor text:**: “In the northern wilderness the berry bushes have frozen, but there are hungry animals to be hunted and lots of gold”
+* (Water) Map features:
+  * Less Forage Bushes
+  * Extra Deer
+  * Three Boars
+  * Water on the two sides
+  * Stone is less abundant
 
-== Salt Marsh ==
-**Flavor text:**: “Swampy lowlands full of shallows and rivers that can prohibit expansionistic building.”
-(Water) Map features:
-•	A significant amount of the map is shallow terrain with water chokes.
-**Set-up diagram:**
-
-== Scandinavia ==
-**Flavor text:**: “In the northern wilderness the berry bushes have frozen, but there are hungry animals to be hunted and lots of gold”
-(Water) Map features:
-•	Less Forage Bushes
-•	Extra Deer
-•	Three Boars
-•	Water on the two sides
-•	Stone is less abundant
-**Set-up diagram:**
-
-== Yucatan ==
-**Flavor text:**: “In the tropical forest food is abundant, but jaguars stalk beneath the canopy.”
-(Land) Map features:
-•	Lots of food (e.g. 12+ Sheep, 2+ Boar, 6-8+ Deer, two+ Berries)
-**Set-up diagram:**
-</WRAP>
-
+#### Yucatan 
+* **Flavor text:**: “In the tropical forest food is abundant, but jaguars stalk beneath the canopy.”
+* (Land) Map features:
+  * Lots of food (e.g. 12+ Sheep, 2+ Boar, 6-8+ Deer, two+ Berries)
 
 
 
