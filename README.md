@@ -140,7 +140,7 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Chance for animal lures to be unsuccessful
 * Defender advantage due to closer production buildings
 * Resource depletion. Resources close to you run out first so forced to gain control over other positions of the map that are closer to the enemy for your resources
-* Need for scouting
+* Fog of war and large maps, which creates a need for scouting
   * To find where your opponent is
   * To work out what strategy your opponent is going for
   * To work out what armies are coming towards your base and from where
@@ -165,8 +165,18 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Cards as resources
 * Dice combat
 * Abstract battlefield like the patrol zone in Codex
+* Playing cards from binders instead of from a deck
+  * Binders are expensive (~ 45 AUD/480 card binder)
+  * Binders make it hard to access the cards
+* Simultaneous turns or phases of turns
 
 ### On what I wasn't sure would be best for the AoE ECG
+#### Flipping over the card when the unit is present in a battle
+* Way of partially hiding them from the opponent. Can still see where they're moving
+
+#### Drawing units present in a battle from a bag
+* Way of fully hiding them from the opponent until the battle happens
+
 #### Town board with different action spots concept
 * Could perhaps hide it through a screen until opponent is in your town
 * E.g. Town Center having a create villager spot
@@ -174,6 +184,29 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * E.g. Edge of the board having a fight, raid, and scout spot
 
 ### On what I wanted to add to the AoE ECG
+#### Card limits concept
+* ~ 10 wall cards/per player
+* Having a card limit of 1/per player for building and tech cards that are only played up to once/each game (e.g. “Hand Cart”, “Mill”, & “Elite War Elephant (Persian)”)
+
+#### Research phase concept
+* Introducing a research phase after the construction phase. In this phase, players can play cards with a research cost 
+
+#### Purchase phase and tactics card concept
+* Dividing them into an Age I, II, III, and IV deck based on how powerful they are
+* As part of set-up, 3 cards from each of these decks are put in a row and revealed
+* During the purchase phase (a new phase that's the first phase of each player's turn), a player can choose to buy up to 3 of these cards if they pay the cost associated with the cards and meet the Age requirements. At the end of a player's turn, new tactics cards are put out to replace taken tactics cards. If a tactics card refers to cards that neither civilization can play (e.g. “Cavalry Archers”) then it may be discarded and replaced with another card. Played tactics cards go in a discard pile
+
+
+#### Discovery concept
+* Exploration of the map results in drawing a discovery card from your discovery cards deck, which consists of: "Boar" x 2, "Sheep" x 4, "Stand of trees" x 3, "Fallen Tree" x 2, "Berries" x 1, "Gold Nugget" x 1, "Exposed Gold Deposit" x 1, "Quarry" x 1,  "Rock Collection" x 1, & unique relic cards x 3. Relics must be placed into No Man's Land upon drawing them. The other cards may be played during the player's current & future turns.
+
+#### In-game deck-building concept
+* Browsing through a unit cards deck during the enlistment phase
+* Browsing through a building cards deck during the construction phase
+* Browsing through a technology cards deck during the research phase
+* Setting up each of the decks so that they only consist of cards that a player can play given their civilization and current Age. Throughout the game, more cards will be added to these decks (e.g. upon advancing to the next Age)
+* Any of a player's units, buildings, and technologies removed from play return to that player's units, building, and technology deck
+
 #### Heroes concept
 * Stats of them are buffed versions of standard units (e.g. Theodoric the Goth is a stronger Huskarl) with the same prerequisites and resource costs as their base model
 * Can only be played once
@@ -284,8 +317,30 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
   * Britons
   * Celts
   * Franks
+ 
+## New components I wanted to make use of
+* Having a physical representation of military units, monks, and villagers
+  * Using different colored d6 dice
+* Having a card bin for storing the cards
+  * Using cardboard card bin (cheap option)
+  * Using BCW collectible card bin (expensive option)
+* Having a physical repreantation of who controls what
+  * Using colored plastic counters (cheap option)
+* Having a physical representation of the research cost
+  * Using purple transluscent cubes (cheap option)
+  * Using book bits (expensive option)
+* Having a physical representation of the resources
+  * Using brown, grey, red, and yellow resource cubes (cheap option)
+  * Using wood, stone, food, and gold resource bits (expensive option)
+
+
 
 ## New content I wanted to add
+### Cards list
+### Population tracker
+### Score tracker
+### Tech trees
+
 ### Civilization cards
 #### Byzantine card
 * Unique Unit: Cataphract
@@ -474,6 +529,10 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
  * Harald Hardrada (Viking)
  * Harthacnut (Viking)
  * Siegfried (Viking)
+
+### Discovery cards
+ * Resource cards: "Boar", "Sheep", "Stand of trees", "Fallen Tree", "Berries", "Gold Nugget", "Exposed Gold Deposit", "Quarry", & "Rock Collection"
+ * Relic cards: "The Cross of Cong", "A Branch from the Bo Tree", "Book of Zaydi", "Golden Crown of Charlemagne", "The Holy Grail", "Raven Banner of King Knut", "Golden Gonjir", "Seal of Muhammed", & "Kusanagi-no-tsuruyi"
  
 ### Tactics cards
 * Pillage - Gain resources when destroying enemy buildings this turn
