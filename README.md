@@ -120,9 +120,17 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
 * Maintaining preexisting unit limits. Should make it easier to calculate the outcome of the battle
 * Maintaining a limited base size. Should help make it fit on the table if players can't for example, play a 1 row x 24 columns grid of cards as opposed to a 4 row * 6 columns grid of cards
 * Sticking with cards. Affordable. Can fit more information on them. Can present art on them
+* Maintaining a tech tree
 
 ### On what I wanted to remove from the AoE ECG
 * Buildings are what creates land and what explores it
+* Blindly drawing cards from a deck
+* Pre-game deck-building
+
+### On what I thought wouldn't be best for the AoE ECG
+* Cards as resources
+* Dice combat
+* Abstract battlefield like the patrol zone in Codex
 
 ### On what I wasn't sure would be best for the AoE ECG
 #### Town board with different action spots concept
