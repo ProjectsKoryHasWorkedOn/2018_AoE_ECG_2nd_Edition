@@ -72,14 +72,14 @@ Ideas I had for the [Age of Empires ECG](https://boardgamegeek.com/boardgame/312
   * ~ 250 USD/per card art
   * ~ years of time
 * Realized that I don't want to design a board game on one's own since that's a lot harder
- * Partner could help with playtesting
- * Partner could provide input on ideas
- * Partner could provide their own ideas
- * Partner could help with proof-reading the rules
- * Partner could have helpful skills that could be utilized
-  * Probability
-  * Statistics
-  * Graphic design
+  * Partner could help with playtesting
+  * Partner could provide input on ideas
+  * Partner could provide their own ideas
+  * Partner could help with proof-reading the rules
+  * Partner could have helpful skills that could be utilized
+    * Probability
+    * Statistics
+    * Graphic design
 * Wasn't able to obtain the original Age of Empires ECG assets
 * Wasn't certain that there was a large enough audience for this to justify working on it
 * Would have preferred to do one's own project from the start with no non-commcerical stipulation so I'd be able to obtain funding
